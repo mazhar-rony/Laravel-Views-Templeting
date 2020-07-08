@@ -1,0 +1,1 @@
+Laravel Views Templeting Tips
